@@ -1,0 +1,26 @@
+[
+  {
+    "placeImage": "images/hawkers.jpg",
+    "placeName": "X-Tudo",
+    "placeItems": ["Burgers","Sanduiche","Fast Food","Americano","Refrigerante"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/flipping.jpg",
+    "placeName": "Pasta Italiana",
+    "placeItems": ["Massa","Molho","Fast Food","Italiano","Vinho"],
+    "minOrder": 50
+  },
+  {
+    "placeImage": "images/pizzahut.jpg",
+    "placeName": "Pizzas",
+    "placeItems": ["Pizza","Comida Chinesa","Fast Food","Italiano","Suco"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/bluehill.jpg",
+    "placeName": "Picanha",
+    "placeItems": ["Carne","Grelhado","Fast Food","Gaúcho","Suco"],
+    "minOrder": 40
+  }
+]
