@@ -1,6 +1,6 @@
 # Podrinho
     
-    Exemplo de construção de aplicativo em Flutter para o mini-curso de Flutter. 
+    Exemplo de construção básica de um aplicativo para o mini-curso de Flutter.
 <br />
 
 <p  align="center">
