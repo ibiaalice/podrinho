@@ -23,3 +23,11 @@ Basicamente, uma tela de exemplo com elementos básicos de uma construção de a
 <br />
 
 Para mais exemplos de widgets e roteamento, temos a [Documentação](https://api.flutter.dev/index.html) do Flutter. 
+
+
+## Instalação 
+
+> flutter pub get 
+<br /> 
+> flutter run 
+<br />
